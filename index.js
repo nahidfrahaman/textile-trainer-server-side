@@ -25,3 +25,5 @@ app.get("/courses",(req,res)=>{
 app.listen(Port, ()=>{
     console.log('server is on',)
 })
+
+module.exports = app;
