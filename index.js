@@ -20,6 +20,8 @@ app.get("/courses",(req,res)=>{
     res.send(CoursesDetails)
 })
 
+
+
 app.listen(Port, ()=>{
-    console.log('server kaj kortece', Port)
+    console.log('server is on',)
 })
