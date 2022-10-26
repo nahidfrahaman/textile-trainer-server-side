@@ -8,14 +8,16 @@ app.use(cors());
 
 const Port = process.env.port || 5000;
 
-const Cources = require("./data/product.json")
+const courses = require('./data/cources.json')
+
+const CoursesDetails = require("./data/product.json")
 
 app.get("/",(req, res)=>{
     res.send('hurrah server is on')
 })
 
-app.get("/cources",(req,res)=>{
-    res.send(Cources)
+app.get("/courses",(req,res)=>{
+    res.send(CoursesDetails)
 })
 
 app.listen(Port, ()=>{

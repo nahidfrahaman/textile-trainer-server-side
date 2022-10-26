@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "cources": "DressMaking"
+
+    },
+    {
+        "id": 2,
+        "cources": "Pattern Designer"
+
+    },
+    {
+        "id": 3,
+        "cources": "Garments Cad"
+
+    },
+    {
+        "id": 4,
+        "cources": "Scrren Printing"
+
+    },
+    {
+        "id": 5,
+        "cources": "Marchandiser"
+
+    },
+    {
+        "id": 6,
+        "cources": "Production Planing"
+
+    }
+   
+]

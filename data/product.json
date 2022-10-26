@@ -7,14 +7,14 @@
       "details": "Dressmaking is the art of making women's tailored clothes like skirts, blouses, and gowns in the evening. A dressmaker, seamstress, tailor or mantua-maker does this A sewing professional may work out of the home, a workshop, or a retail store and may work part-time or full-time. This dissertation can include the  A custom wardrobe makes personalized wardrobes one at a time, to order, to suit the needs and desires of the individual customer.",
       "image": "https://i.ibb.co/HpjrLDF/Beginners-guide-to-making-clothes.webp",
       "rating": {
-        "rate": 3.9,
+        "rate": 4.9,
         "count": 120
       }
     },
     {
       "id": 2,
       "title": "Pattern Design",
-      "price": 109.95,
+      "price": 120.95,
       "description": "The making of exact image of each part of a garment with flat hard board paper is called the pattern ",
       "details": "For making garments patterns specialized knowledge and efficiency is required on skillness, technical knowledge, capacity of analysis of garments designs and on technology of garments making. The patterns used in garment industry are produced mainly in two stages which are called block pattern and garment pattern.",
       "image": "https://i.ibb.co/DK7sXsb/pattern-making.jpg",
@@ -26,43 +26,43 @@
     {
       "id": 3,
       "title": "Garments Cad",
-      "price": 109.95,
+      "price": 50.15,
       "description": "CAD means computer-aided design. You might also see it called CADD, meaning computer-aided design and draftings ",
       "details": "A designer uses CAD to modify design drafts and make changes. Depending on what type of textile a designer creates, they might use different types of CAD software. There are systems for general textile design as well as creating knitted and printed fabrics. There are CAD systems for illustration and sketch pad applications that allow a person to draw freehand directly on the computer. ",
       "image": "https://i.ibb.co/kMjCcjk/cad-system.jpg",
       "rating": {
-        "rate": 3.9,
+        "rate": 4.5,
         "count": 120
       }
     },
     {
       "id": 4,
       "title": "Screen Printing",
-      "price": 109.95,
+      "price": 75.95,
       "description": "Screen printing, also known as silk screening or silkscreen printing, is the process of transferring a stencilled design",
       "details": "Screen printing is the process of transferring a stencilled design onto a flat surface using a mesh screen, ink and a squeegee. Fabric and paper are the most commonly screen-printed surfaces, but with specialised inks it’s also possible to print onto wood, metal, plastic, and even glass. The basic method involves creating a stencil on a fine mesh screen, and then pushing ink (or paint, in the case of artwork and posters) through to create an imprint of your design on the surface beneath.",
       "image": "https://i.ibb.co/0nNLXQ7/screen-for-screenprinting.jpg",
       "rating": {
-        "rate": 3.9,
+        "rate": 4.1,
         "count": 120
       }
     },
     {
       "id": 5,
       "title": "Merchandising",
-      "price": 109.95,
+      "price": 250.10,
       "description": "Garments merchandising is one stop solution for apparel merchandisers which includes fabric consumption, costing and production process of garments",
       "details": "Merchandiser is the BRIDGE between the industry and the buyer. He have to look after every job like buying the raw material which is required to finish the product, making the garment, finishing the garment, documentation, finally shipping",
       "image": "https://i.ibb.co/dWMK477/Roles-of-a-Merchandiser-in-Garment-Industry.webp",
       "rating": {
-        "rate": 3.9,
+        "rate": 5.9,
         "count": 120
       }
     },
     {
       "id": 6,
       "title": "Production Planning",
-      "price": 109.95,
+      "price": 120.95,
       "description": "Production planning is the controlling aspect of garments industry",
       "details": " Production planning is the controlling aspect of garments industry. It is involves everything & every task in the process to execution the delivery of goods within time frame. So, production planning is the controlling of production & manufacturing process determined by time frame. ",
       "image": "https://i.ibb.co/LRf08sK/shutterstock-340039424-281253.webp",
