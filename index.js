@@ -26,6 +26,12 @@ app.get("/courseoption/:id", (req,res)=>{
     res.send(singleOption)
 })
 
+app.get("/checkout/:id", (req,res)=>{
+    const id = req.params.id;
+    const singleOption = CoursesDetails?.find((p)=> p.id== id);
+    res.send(singleOption)
+})
+
 app.listen(Port, ()=>{
     console.log('server is on',)
 })
